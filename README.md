@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 CHEAT SHEET 
+## CHEAT SHEET 
 
 - **Brackets & Symbols**
   - `()` → function calls, parameters, `print()`, `input()`
