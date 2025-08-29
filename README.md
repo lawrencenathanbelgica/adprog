@@ -529,5 +529,3 @@ def is_adult(age):
 | division      | `/` float, `//` floor, `%` remainder, `**` power             | `20//6`, `20%6`, `2**3`              |
 
 ---
-
-**You got this. Review the cheat sheet, code the mini projects once, and answer the quiz without peeking.** 🚀
