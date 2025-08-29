@@ -1,17 +1,8 @@
-# Python Programming Notes — Exam Review (Intro Level)
-
-This README is my study guide for Monday’s check-up exam. It explains Python basics with examples, shows correct vs. incorrect code, and ends with practice questions and answers.
+# Python Programming Notes 
 
 ---
 
-## How to Use These Notes
-- Skim the **Cheat Sheet** first.
-- Read **Concept + Syntax + Example + Analysis** per topic.
-- Practice with the **Mini Projects** and **Quiz** at the end.
-
----
-
-## 🧠 CHEAT SHEET (Memorize First)
+## 🧠 CHEAT SHEET 
 
 - **Brackets & Symbols**
   - `()` → function calls, parameters, `print()`, `input()`
@@ -76,8 +67,6 @@ int(3.9)   # 3
 float(5)   # 5.0
 str(42)    # "42"
 ```
-
-**Analysis:** Convert user input (which is always a string) before math.
 
 ---
 
@@ -523,17 +512,7 @@ def is_adult(age):
 
 ---
 
-## 15) FINAL TIPS FOR THE EXAM
-- Always check **indentation** and **colons**.
-- Convert `input()` to numbers when doing math.
-- Know which brackets to use: `()`, `[]`, `{}`.
-- Read error messages; they’re very specific.
-- Practice small snippets: loops, conditionals, functions.
-- Prefer `f-strings`: `f"Hello, {name}"`.
-
----
-
-## 16) QUICK REFERENCE TABLE
+## 15) QUICK REFERENCE TABLE
 
 | Topic         | Must Remember                                               | Example                              |
 |---------------|--------------------------------------------------------------|--------------------------------------|
